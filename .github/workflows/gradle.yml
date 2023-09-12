@@ -1,6 +1,6 @@
 name: Java CI with Gradle
 
-on: [push, junit4]
+on: [pull_request]
 
 jobs:
   build:
